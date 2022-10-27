@@ -1,7 +1,8 @@
 # Tree-Based Models For Churn Customers
 
 ## use case:
-- Churn problem is a data set of informtion about customer that we feed the the machine so it can tell use if he/she is going to leave or stay.
+-Churn problem: the bank needs to know if his/her customers are going to leave or stay based on some information about each customer.
+
 ## Dataset:
 - The Data set consistes of 14 columns with 10 features and one target, in the following we will demo each feature:
 
